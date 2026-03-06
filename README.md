@@ -143,12 +143,9 @@ Analytics system designed to generate inventory insights and operational KPIs.
 
 ## GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=amezquita-dav&show_icons=true&theme=dark" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amezquita-dav&layout=compact&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amezquita-dav&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amezquita-dav&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
