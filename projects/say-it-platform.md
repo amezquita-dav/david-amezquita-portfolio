@@ -1,5 +1,5 @@
 # Say It! – English Learning Platform
-
+![Login Screen](../screenshots/logo-sayit.png)
 ## Overview
 
 Say It! is a web-based academic management platform designed to support the administration of English learning programs and language schools.
