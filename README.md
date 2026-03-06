@@ -2,16 +2,16 @@
 
 **Software Engineer – Industrial & Web Systems**
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 📍 Saltillo, Mexico  
 📧 angel_amezquita02@outlook.com  
 💼 Focus: Industrial Systems, Data Analytics, Web Applications
 
 </td>
-<td width="35%" valign="top" align="right">
+<td width="40%" valign="top" align="right">
 
 **Languages**
 
@@ -140,9 +140,9 @@ Visualization → Data Dashboards
 
 ## Technical Skills
 
-<table>
+<table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### Programming
 - C#
@@ -152,7 +152,7 @@ Visualization → Data Dashboards
 
 </td>
 
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### Frontend
 - Angular
@@ -170,7 +170,7 @@ Visualization → Data Dashboards
 
 </td>
 
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### Tools & DevOps
 - Git
@@ -181,7 +181,7 @@ Visualization → Data Dashboards
 
 </td>
 
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### Cloud
 - Firebase
