@@ -198,23 +198,106 @@ Example Firestore collections used in the system:
 
 # UI Screenshots
 
-Below are example interfaces from the platform showing different parts of the system.
+The following screenshots illustrate key modules of the Say It! academic management platform, highlighting administrative workflows and system navigation.
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
 
 ### Login Interface
 
-![Login Screen](../screenshots/sayit-login.png)
+![Login](../screenshots/login.png)
+
+Secure authentication interface for administrators, teachers, and students using Firebase Authentication.
+
+</td>
+
+<td width="50%" align="center">
 
 ### Admin Dashboard
 
-![Admin Dashboard](../screenshots/sayit-dashboard.png)
+![Dashboard](../screenshots/dashboard-admin.png)
+
+Central administrative dashboard providing access to system modules and operational metrics.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 
 ### Student Management
 
-![Students Management](../screenshots/sayit-students.png)
+![Students](../screenshots/lista-alumnos.png)
 
-### Teacher Dashboard
+Administrative interface for managing student records, including registration, updates, and detailed views.
 
-![Teacher Dashboard](../screenshots/sayit-teacher-dashboard.png)
+</td>
+
+<td width="50%" align="center">
+
+### Teacher Registration
+
+![Teachers](../screenshots/registrar-maestro.png)
+
+Interface for registering teachers and managing instructor profiles within the academic system.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### Academic Level Management
+
+![Levels](../screenshots/agregar-nivel.png)
+
+Allows administrators to create and manage academic levels used within the learning program.
+
+</td>
+
+<td width="50%" align="center">
+
+### Student Detail View
+
+![Student Detail](../screenshots/detalle-alumno.png)
+
+Displays detailed student information including enrollment data and academic attributes.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### Student Modification
+
+![Edit Student](../screenshots/modificar-alumno.png)
+
+Interface for updating student records and maintaining accurate academic data.
+
+</td>
+
+<td width="50%" align="center">
+
+### Navigation Sidebar
+
+![Sidebar](../screenshots/sidebar.png)
+
+System navigation component providing quick access to all administrative modules.
+
+</td>
+
+</tr>
+
+</table>
 
 
 ---
