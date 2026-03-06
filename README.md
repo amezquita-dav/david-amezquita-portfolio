@@ -81,13 +81,13 @@ Analytics → Data Visualization
 
 Platform to manage English courses, students, and class scheduling.
 
-**Tech:** Web Application • User Management • Scheduling
+**Tech:** Angular • Firebase • Scheduling
 
 **Project Architecture**
 
 Frontend → Angular  
 Backend → Firebase  
-Database → Firebase  
+Database → Firebase Storage
 Core System → Scheduling Engine
 
 [View Project](projects/say-it-platform.md)
