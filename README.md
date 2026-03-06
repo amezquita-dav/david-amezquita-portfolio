@@ -15,11 +15,9 @@
 
 **Languages**  
 
-<img src="https://flagcdn.com/w40/us.png" width="20"/> **English** — C1  
-`█████████████████░░░` 90%  
+<img src="https://flagcdn.com/w40/us.png" width="20"/> **English** — C1   90%  
 
-<img src="https://flagcdn.com/w40/de.png" width="20"/> **German** — A1  
-`████░░░░░░░░░░░░░░░░` 20%
+<img src="https://flagcdn.com/w40/de.png" width="20"/> **German** — A1   20%
 
 </td>
 </tr>
