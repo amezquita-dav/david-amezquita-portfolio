@@ -85,9 +85,9 @@ Platform to manage English courses, students, and class scheduling.
 
 **Project Architecture**
 
-Frontend → Web Interface  
-Backend → Application Logic  
-Database → Student & Course Data  
+Frontend → Angular  
+Backend → Firebase  
+Database → Firebase  
 Core System → Scheduling Engine
 
 [View Project](projects/say-it-platform.md)
@@ -178,6 +178,15 @@ Visualization → Data Dashboards
 - Kubernetes
 - Azure
 - Firebase
+
+</td>
+
+<td width="25%" valign="top">
+
+### Cloud
+- Firebase
+- Google Cloud
+- Azure
 
 </td>
 </tr>
