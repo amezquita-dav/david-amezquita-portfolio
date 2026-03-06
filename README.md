@@ -2,18 +2,28 @@
 
 **Software Engineer – Industrial & Web Systems**
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 📍 Saltillo, Mexico  
 📧 angel_amezquita02@outlook.com  
 💼 Focus: Industrial Systems, Data Analytics, Web Applications
 
----
+</td>
+<td width="35%" valign="top" align="right">
 
-## About Me
+**Languages**  
 
-Software Engineer with experience developing industrial data and logistics systems.  
-I specialize in building scalable dashboards, data-driven applications, and web platforms that help organizations monitor operations and make better decisions.
+<img src="https://flagcdn.com/w40/us.png" width="20"/> **English** — C1  
+`█████████████████░░░` 90%  
 
-My work combines **software engineering, data analytics, and system design** to create practical tools for real-world environments.
+<img src="https://flagcdn.com/w40/de.png" width="20"/> **German** — A1  
+`████░░░░░░░░░░░░░░░░` 20%
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,19 +99,21 @@ Data analytics project focused on inventory KPIs and operational insights.
 </tr>
 </table>
 
----
-
 ## Technical Skills
 
 <table>
 <tr>
-<td width="50%">
+<td width="25%" valign="top">
 
 ### Programming
 - C#
 - Java
 - Python
 - JavaScript / TypeScript
+
+</td>
+
+<td width="25%" valign="top">
 
 ### Frontend
 - Angular
@@ -110,12 +122,16 @@ Data analytics project focused on inventory KPIs and operational insights.
 
 </td>
 
-<td width="50%">
+<td width="25%" valign="top">
 
 ### Databases
 - SQL Server
 - MySQL
 - Hive
+
+</td>
+
+<td width="25%" valign="top">
 
 ### Tools & DevOps
 - Git
@@ -128,40 +144,7 @@ Data analytics project focused on inventory KPIs and operational insights.
 </tr>
 </table>
 
----
 
-<h2>Languages</h2>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://flagcdn.com/w40/us.png" width="20"/> <b>English</b> — C1 (Advanced)
-</td>
-<td width="50%" align="right">
-<progress value="90" max="100"></progress> 90%
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<img src="https://flagcdn.com/w40/de.png" width="20"/> <b>German</b> — A1 (Basic)
-</td>
-<td width="50%" align="right">
-<progress value="20" max="100"></progress> 20%
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amezquita-dav&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amezquita-dav&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ## Professional Experience
 
