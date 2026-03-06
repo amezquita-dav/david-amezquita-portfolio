@@ -170,9 +170,29 @@ Example Firestore collections used in the system:
 • periodos  
 • empleados  
 
-### Example Firestore Structure
+### Firebase Infrastructure
 
-![Firestore Structure](../screenshots/Screenshot 2026-03-05 205903.png)
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+**Cloud Firestore – Database Structure**
+
+![Firestore Database](../screenshots/firestore-database.png)
+
+</td>
+
+<td width="50%" align="center">
+
+**Firebase Storage – File Management**
+
+![Firebase Storage](../screenshots/firestore-storage.png)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
