@@ -1,43 +1,30 @@
-<h1>Angel David Garces Amezquita</h1>
+# Angel David Garces Amezquita
 
-<b>Software Engineer – Industrial &amp; Web Systems</b>
+**Software Engineer – Industrial & Web Systems**
 
-<br/><br/>
+📍 Saltillo, Mexico  
+📧 angel_amezquita02@outlook.com  
+💼 Focus: Industrial Systems, Data Analytics, Web Applications
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="65%">
-      📍 Saltillo, Mexico <br/>
-      📧 <a href="mailto:angel_amezquita02@outlook.com">angel_amezquita02@outlook.com</a> <br/>
-      💼 Focus: Industrial Systems, Data Analytics, Web Applications
-    </td>
+---
 
-    <td valign="top" width="35%" align="right">
-      <b>Languages</b><br/><br/>
+## Languages
 
-      <table width="100%">
-        <tr>
-          <td valign="middle" width="55%">
-            <img src="https://flagcdn.com/w40/us.png" width="20" /> <b>English</b> — C1
-          </td>
-          <td valign="middle" width="45%" align="right">
-            <code>█████████████████░░░</code> 90%
-          </td>
-        </tr>
-        <tr>
-          <td valign="middle" width="55%">
-            <img src="https://flagcdn.com/w40/de.png" width="20" /> <b>German</b> — A1
-          </td>
-          <td valign="middle" width="45%" align="right">
-            <code>████░░░░░░░░░░░░░░░░</code> 20%
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://flagcdn.com/w40/us.png" width="20"/> <b>English</b> — C1 (Advanced)<br/>
+  <code>█████████████████░░░</code> 90%
+</td>
+
+<td width="50%" valign="top" align="right">
+  <img src="https://flagcdn.com/w40/de.png" width="20"/> <b>German</b> — A1 (Basic)<br/>
+  <code>████░░░░░░░░░░░░░░░░</code> 20%
+</td>
+</tr>
 </table>
 
-<hr/>
+---
 
 <h2>About Me</h2>
 
