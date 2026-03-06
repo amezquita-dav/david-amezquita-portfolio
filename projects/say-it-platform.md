@@ -2,11 +2,13 @@
 ![Login Screen](../screenshots/logo-sayit.png)
 ## Overview
 
-Say It! is a web-based academic management platform designed to support the administration of English learning programs and language schools.
+Say It! is an internal academic management platform designed to support the operations of my own English language academy.
 
-The system centralizes academic management processes including students, teachers, academic levels, and course scheduling. It provides role-based dashboards that allow administrators, teachers, and students to interact with the platform according to their responsibilities.
+The system centralizes the management of students, teachers, academic levels, and course scheduling in a single web application. It was built to streamline administrative processes and provide clear visibility of academic operations as the academy grows.
 
-The platform was developed using **Angular** with a modular architecture and integrates **Firebase services** for authentication, data storage, and cloud infrastructure.
+The platform provides role-based dashboards for administrators, teachers, and students, allowing each role to interact with the system according to their responsibilities.
+
+The application was developed using **Angular** with a modular architecture and integrates **Firebase services** for authentication, data storage, and cloud infrastructure.
 
 Main capabilities include:
 
@@ -24,17 +26,17 @@ Main capabilities include:
 
 ## Problem
 
-Many small and medium language schools manage their academic operations using spreadsheets, messaging platforms, or manual processes.
+When launching a small educational program or language academy, many administrative tasks are handled manually through spreadsheets, messaging apps, or scattered documents.
 
-This approach creates several operational challenges:
+This creates operational inefficiencies such as:
 
-• Lack of centralized academic information  
-• Difficulty tracking students and teachers  
-• Inefficient scheduling processes  
+• Difficulty organizing student and teacher information  
 • Limited visibility of academic periods and course assignments  
-• Increased risk of administrative errors  
+• Inefficient scheduling processes  
+• Lack of centralized academic data  
+• Increased risk of administrative errors
 
-Without a centralized system, it becomes difficult to scale academic programs or maintain consistent organization across courses and periods.
+As the academy grows, these manual processes become harder to manage and limit the ability to scale operations efficiently.
 
 </td>
 
@@ -42,13 +44,13 @@ Without a centralized system, it becomes difficult to scale academic programs or
 
 ## Solution
 
-Say It! provides a centralized digital platform that manages academic operations through a structured web application.
+Say It! was developed as an internal platform to support the academic operations of my own English learning program.
 
-Administrators can manage the entire academic structure including students, teachers, levels, and periods.
+The system centralizes academic management into a single platform where administrators can manage students, teachers, academic levels, and course periods.
 
-Teachers can access course-related information and student lists, while students can view their academic data through personalized dashboards.
+Teachers can access dashboards with their course and student information, while students can access their academic data through dedicated interfaces.
 
-The system was designed with **modularity and scalability**, allowing the application to grow as the academic program expands.
+The platform was designed with a **modular and scalable architecture**, allowing the system to evolve as the academy expands and introduces new academic programs.
 
 </td>
 
@@ -59,6 +61,7 @@ The system was designed with **modularity and scalability**, allowing the applic
 
 # System Architecture
 
+The platform was developed as an internal operational system for managing the academic processes of the Say It! English program.
 The platform follows a modular web architecture built with Angular and Firebase services.
 
 Frontend → Angular  
