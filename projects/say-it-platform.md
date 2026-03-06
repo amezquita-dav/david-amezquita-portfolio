@@ -17,9 +17,12 @@ Main capabilities include:
 • Course and class scheduling  
 • Role-based dashboards for administrators, teachers, and students  
 
----
+<table width="100%">
+<tr>
 
-# Problem
+<td width="50%" valign="top">
+
+## Problem
 
 Many small and medium language schools manage their academic operations using spreadsheets, messaging platforms, or manual processes.
 
@@ -33,15 +36,24 @@ This approach creates several operational challenges:
 
 Without a centralized system, it becomes difficult to scale academic programs or maintain consistent organization across courses and periods.
 
----
+</td>
 
-# Solution
+<td width="50%" valign="top">
+
+## Solution
 
 Say It! provides a centralized digital platform that manages academic operations through a structured web application.
 
-Administrators can manage the entire academic structure including students, teachers, levels, and periods. Teachers can access course-related information and student lists, while students can view their academic data through personalized dashboards.
+Administrators can manage the entire academic structure including students, teachers, levels, and periods.
+
+Teachers can access course-related information and student lists, while students can view their academic data through personalized dashboards.
 
 The system was designed with **modularity and scalability**, allowing the application to grow as the academic program expands.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
