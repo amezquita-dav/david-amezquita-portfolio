@@ -172,7 +172,7 @@ Example Firestore collections used in the system:
 
 ### Example Firestore Structure
 
-![Firestore Structure](../screenshots/sayit-firestore.png)
+![Firestore Structure](../screenshots/Screenshot 2026-03-05 205903.png)
 
 ---
 
