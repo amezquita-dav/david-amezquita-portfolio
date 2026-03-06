@@ -41,7 +41,6 @@
 
 ### Industrial Logistics Dashboard
 
-<img src="screenshots/logistics-dashboard.png" width="100%"/>
 
 Full-stack dashboard for monitoring logistics operations and operational KPIs.
 
@@ -55,7 +54,6 @@ Full-stack dashboard for monitoring logistics operations and operational KPIs.
 
 ### Say It! – English Learning Platform
 
-<img src="screenshots/sayit-platform.png" width="100%"/>
 
 Platform to manage English courses, students, and class scheduling.
 
@@ -71,7 +69,6 @@ Platform to manage English courses, students, and class scheduling.
 
 ### AI Web Application
 
-<img src="screenshots/ai-project.png" width="100%"/>
 
 Machine learning web application using a Kaggle dataset for predictions and insights.
 
@@ -85,7 +82,6 @@ Machine learning web application using a Kaggle dataset for predictions and insi
 
 ### Inventory Analytics
 
-<img src="screenshots/inventory-analytics.png" width="100%"/>
 
 Data analytics project focused on inventory KPIs and operational insights.
 
@@ -162,7 +158,3 @@ Planning and delivering English courses for teenagers and adults.
 If you'd like to collaborate or discuss opportunities, feel free to reach out.
 
 📧 angel_amezquita02@outlook.com
-ok entonces pasame todo a html. agregame al lado derecho de: 📍 Saltillo, Mexico  
-📧 angel_amezquita02@outlook.com  
-💼 Focus: Industrial Systems, Data Analytics, Web Applications
-los charts de idiomas
