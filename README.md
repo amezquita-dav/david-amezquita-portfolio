@@ -27,83 +27,67 @@ My work combines **software engineering, data analytics, and system design** to 
 
 ## Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
 
 ### Industrial Logistics Dashboard
 
-Full-stack dashboard designed to visualize logistics operations and operational KPIs.
+<img src="screenshots/logistics-dashboard.png" width="100%"/>
 
-**Technologies**
-- Angular
-- SQL
-- REST APIs
-- Data Visualization
+Full-stack dashboard for monitoring logistics operations and operational KPIs.
 
-**Key Features**
-- Dynamic filters and KPI charts
-- Real-time operational insights
-- Modular UI architecture
+**Tech:** Angular • SQL • REST APIs • Data Visualization
 
 [View Project](projects/logistics-dashboard.md)
 
----
+</td>
+
+<td width="50%">
 
 ### Say It! – English Learning Platform
 
-Web platform designed to manage English courses, student progress, and class scheduling.
+<img src="screenshots/sayit-platform.png" width="100%"/>
 
-**Technologies**
-- Web Application Architecture
-- User Management Systems
-- Scheduling Logic
+Platform to manage English courses, students, and class scheduling.
 
-**Key Features**
-- Course management
-- Student tracking
-- Class scheduling
-- Progress monitoring
+**Tech:** Web Application • User Management • Scheduling
 
 [View Project](projects/say-it-platform.md)
 
----
+</td>
+</tr>
 
-### AI Web Application (Kaggle Dataset)
+<tr>
+<td width="50%">
 
-Machine learning application that processes real-world datasets and delivers predictions through a web interface.
+### AI Web Application
 
-**Technologies**
-- Python
-- Machine Learning
-- Data Processing
-- Web Interface
+<img src="screenshots/ai-project.png" width="100%"/>
 
-**Key Features**
-- Data preprocessing and feature engineering
-- Model training and evaluation
-- Predictive analytics
-- Web interface for interacting with predictions
+Machine learning web application using a Kaggle dataset for predictions and insights.
+
+**Tech:** Python • Machine Learning • Data Processing
 
 [View Project](projects/ai-project.md)
 
----
+</td>
 
-### Inventory Analytics (SQL + Python)
+<td width="50%">
 
-Analytics system designed to generate inventory insights and operational KPIs.
+### Inventory Analytics
 
-**Technologies**
-- SQL
-- Python
-- Pandas
-- Data Visualization
+<img src="screenshots/inventory-analytics.png" width="100%"/>
 
-**Key Features**
-- Inventory turnover analysis
-- Stock movement monitoring
-- Slow-moving product detection
-- Reorder insights
+Data analytics project focused on inventory KPIs and operational insights.
+
+**Tech:** SQL • Python • Pandas • Data Visualization
 
 [View Project](projects/inventory-analytics.md)
+
+</td>
+</tr>
+</table>
 
 ---
 
