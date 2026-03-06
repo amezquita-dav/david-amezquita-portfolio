@@ -8,163 +8,180 @@
 
 ---
 
-## Languages
+## About Me
+
+Software Engineer with experience developing industrial data and logistics systems.  
+I specialize in building scalable dashboards, data-driven applications, and web platforms that help organizations monitor operations and make better decisions.
+
+My work combines **software engineering, data analytics, and system design** to create practical tools for real-world environments.
+
+---
+
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,python,cs,java,js,ts,mysql,postgres,docker,kubernetes,git,azure,linux" />
+</p>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-  <img src="https://flagcdn.com/w40/us.png" width="20"/> <b>English</b> — C1 (Advanced)<br/>
-  <code>█████████████████░░░</code> 90%
+<td width="50%">
+
+### Industrial Logistics Dashboard
+
+<img src="screenshots/logistics-dashboard.png" width="100%"/>
+
+Full-stack dashboard for monitoring logistics operations and operational KPIs.
+
+**Tech:** Angular • SQL • REST APIs • Data Visualization
+
+[View Project](projects/logistics-dashboard.md)
+
 </td>
 
-<td width="50%" valign="top" align="right">
-  <img src="https://flagcdn.com/w40/de.png" width="20"/> <b>German</b> — A1 (Basic)<br/>
-  <code>████░░░░░░░░░░░░░░░░</code> 20%
+<td width="50%">
+
+### Say It! – English Learning Platform
+
+<img src="screenshots/sayit-platform.png" width="100%"/>
+
+Platform to manage English courses, students, and class scheduling.
+
+**Tech:** Web Application • User Management • Scheduling
+
+[View Project](projects/say-it-platform.md)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### AI Web Application
+
+<img src="screenshots/ai-project.png" width="100%"/>
+
+Machine learning web application using a Kaggle dataset for predictions and insights.
+
+**Tech:** Python • Machine Learning • Data Processing
+
+[View Project](projects/ai-project.md)
+
+</td>
+
+<td width="50%">
+
+### Inventory Analytics
+
+<img src="screenshots/inventory-analytics.png" width="100%"/>
+
+Data analytics project focused on inventory KPIs and operational insights.
+
+**Tech:** SQL • Python • Pandas • Data Visualization
+
+[View Project](projects/inventory-analytics.md)
+
 </td>
 </tr>
 </table>
 
 ---
 
-<h2>About Me</h2>
-
-Software Engineer with experience developing industrial data and logistics systems.<br/>
-I specialize in building scalable dashboards, data-driven applications, and web platforms that help organizations monitor operations and make better decisions.<br/><br/>
-My work combines <b>software engineering, data analytics, and system design</b> to create practical tools for real-world environments.
-
-<hr/>
-
-<h2>Tech Stack</h2>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,python,cs,java,js,ts,mysql,postgres,docker,kubernetes,git,azure,linux" />
-</p>
-
-<hr/>
-
-<h2>Featured Projects</h2>
+## Technical Skills
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Industrial Logistics Dashboard</h3>
-      <img src="screenshots/logistics-dashboard.png" width="100%" />
-      <br><br>
-      Full-stack dashboard for monitoring logistics operations and operational KPIs.
-      <br><br>
-      <b>Tech:</b> Angular • SQL • REST APIs • Data Visualization
-      <br><br>
-      <a href="projects/logistics-dashboard.md">View Project</a>
-    </td>
+<tr>
+<td width="50%">
 
-    <td width="50%" valign="top">
-      <h3>Say It! – English Learning Platform</h3>
-      <img src="screenshots/sayit-platform.png" width="100%" />
-      <br><br>
-      Platform to manage English courses, students, and class scheduling.
-      <br><br>
-      <b>Tech:</b> Web Application • User Management • Scheduling
-      <br><br>
-      <a href="projects/say-it-platform.md">View Project</a>
-    </td>
-  </tr>
+### Programming
+- C#
+- Java
+- Python
+- JavaScript / TypeScript
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AI Web Application</h3>
-      <img src="screenshots/ai-project.png" width="100%" />
-      <br><br>
-      Machine learning web application using a Kaggle dataset for predictions and insights.
-      <br><br>
-      <b>Tech:</b> Python • Machine Learning • Data Processing
-      <br><br>
-      <a href="projects/ai-project.md">View Project</a>
-    </td>
+### Frontend
+- Angular
+- HTML
+- CSS
 
-    <td width="50%" valign="top">
-      <h3>Inventory Analytics</h3>
-      <img src="screenshots/inventory-analytics.png" width="100%" />
-      <br><br>
-      Data analytics project focused on inventory KPIs and operational insights.
-      <br><br>
-      <b>Tech:</b> SQL • Python • Pandas • Data Visualization
-      <br><br>
-      <a href="projects/inventory-analytics.md">View Project</a>
-    </td>
-  </tr>
+</td>
+
+<td width="50%">
+
+### Databases
+- SQL Server
+- MySQL
+- Hive
+
+### Tools & DevOps
+- Git
+- Docker
+- Kubernetes
+- Azure
+- Firebase
+
+</td>
+</tr>
 </table>
 
-<hr>
-<h2>Technical Skills</h2>
+---
 
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top">
-      <b>Programming</b>
-      <ul>
-        <li>C#</li>
-        <li>Java</li>
-        <li>Python</li>
-        <li>JavaScript / TypeScript</li>
-      </ul>
-    </td>
+<h2>Languages</h2>
 
-    <td width="25%" valign="top">
-      <b>Frontend</b>
-      <ul>
-        <li>Angular</li>
-        <li>HTML</li>
-        <li>CSS</li>
-      </ul>
-    </td>
+<table>
+<tr>
+<td width="50%">
+<img src="https://flagcdn.com/w40/us.png" width="20"/> <b>English</b> — C1 (Advanced)
+</td>
+<td width="50%" align="right">
+<progress value="90" max="100"></progress> 90%
+</td>
+</tr>
 
-    <td width="25%" valign="top">
-      <b>Databases</b>
-      <ul>
-        <li>SQL Server</li>
-        <li>MySQL</li>
-        <li>Hive</li>
-      </ul>
-    </td>
-
-    <td width="25%" valign="top">
-      <b>Tools &amp; DevOps</b>
-      <ul>
-        <li>Git</li>
-        <li>Docker</li>
-        <li>Kubernetes</li>
-        <li>Azure</li>
-        <li>Firebase</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+<img src="https://flagcdn.com/w40/de.png" width="20"/> <b>German</b> — A1 (Basic)
+</td>
+<td width="50%" align="right">
+<progress value="20" max="100"></progress> 20%
+</td>
+</tr>
 </table>
 
-<hr/>
+---
 
-<h2>GitHub Stats</h2>
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amezquita-dav&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amezquita-dav&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amezquita-dav&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amezquita-dav&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<hr/>
+---
 
-<h2>Professional Experience</h2>
+## Professional Experience
 
-<b>Daimler Truck – Resident Web Developer</b><br/>
-Developing dashboards and industrial web applications for logistics monitoring and operational visibility.<br/><br/>
+**Daimler Truck – Resident Web Developer**  
+Developing dashboards and industrial web applications for logistics monitoring and operational visibility.
 
-<b>Softtek – AMS Academy</b><br/>
-Training in DevOps, cloud technologies, and collaborative enterprise development.<br/><br/>
+**Softtek – AMS Academy**  
+Training in DevOps, cloud technologies, and collaborative enterprise development.
 
-<b>English Teacher – Universidad Autónoma de Coahuila</b><br/>
+**English Teacher – Universidad Autónoma de Coahuila**  
 Planning and delivering English courses for teenagers and adults.
 
-<hr/>
+---
 
-<h2>Contact</h2>
+## Contact
 
-If you'd like to collaborate or discuss opportunities, feel free to reach out.<br/><br/>
-📧 <a href="mailto:angel_amezquita02@outlook.com">angel_amezquita02@outlook.com</a>
+If you'd like to collaborate or discuss opportunities, feel free to reach out.
+
+📧 angel_amezquita02@outlook.com
+ok entonces pasame todo a html. agregame al lado derecho de: 📍 Saltillo, Mexico  
+📧 angel_amezquita02@outlook.com  
+💼 Focus: Industrial Systems, Data Analytics, Web Applications
+los charts de idiomas
