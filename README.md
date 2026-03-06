@@ -44,31 +44,27 @@ My work combines <b>software engineering, data analytics, and system design</b> 
 
 <h2>Featured Projects</h2>
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3>Industrial Logistics Dashboard</h3>
-
       <img src="screenshots/logistics-dashboard.png" width="100%" />
-
-      <p>
-        Full-stack dashboard for monitoring logistics operations and operational KPIs.
-      </p>
-
-      <b>Tech:</b> Angular • SQL • REST APIs • Data Visualization<br/><br/>
+      <br><br>
+      Full-stack dashboard for monitoring logistics operations and operational KPIs.
+      <br><br>
+      <b>Tech:</b> Angular • SQL • REST APIs • Data Visualization
+      <br><br>
       <a href="projects/logistics-dashboard.md">View Project</a>
     </td>
 
     <td width="50%" valign="top">
       <h3>Say It! – English Learning Platform</h3>
-
       <img src="screenshots/sayit-platform.png" width="100%" />
-
-      <p>
-        Platform to manage English courses, students, and class scheduling.
-      </p>
-
-      <b>Tech:</b> Web Application • User Management • Scheduling<br/><br/>
+      <br><br>
+      Platform to manage English courses, students, and class scheduling.
+      <br><br>
+      <b>Tech:</b> Web Application • User Management • Scheduling
+      <br><br>
       <a href="projects/say-it-platform.md">View Project</a>
     </td>
   </tr>
@@ -76,34 +72,29 @@ My work combines <b>software engineering, data analytics, and system design</b> 
   <tr>
     <td width="50%" valign="top">
       <h3>AI Web Application</h3>
-
       <img src="screenshots/ai-project.png" width="100%" />
-
-      <p>
-        Machine learning web application using a Kaggle dataset for predictions and insights.
-      </p>
-
-      <b>Tech:</b> Python • Machine Learning • Data Processing<br/><br/>
+      <br><br>
+      Machine learning web application using a Kaggle dataset for predictions and insights.
+      <br><br>
+      <b>Tech:</b> Python • Machine Learning • Data Processing
+      <br><br>
       <a href="projects/ai-project.md">View Project</a>
     </td>
 
     <td width="50%" valign="top">
       <h3>Inventory Analytics</h3>
-
       <img src="screenshots/inventory-analytics.png" width="100%" />
-
-      <p>
-        Data analytics project focused on inventory KPIs and operational insights.
-      </p>
-
-      <b>Tech:</b> SQL • Python • Pandas • Data Visualization<br/><br/>
+      <br><br>
+      Data analytics project focused on inventory KPIs and operational insights.
+      <br><br>
+      <b>Tech:</b> SQL • Python • Pandas • Data Visualization
+      <br><br>
       <a href="projects/inventory-analytics.md">View Project</a>
     </td>
   </tr>
 </table>
 
-<hr/>
-
+<hr>
 <h2>Technical Skills</h2>
 
 <table width="100%">
