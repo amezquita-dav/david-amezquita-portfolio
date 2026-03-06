@@ -101,7 +101,7 @@ Capabilities include:
 
 ---
 
-## Firebase Integration
+# Firebase Integration
 
 The platform integrates multiple Firebase services to provide backend functionality without the need for a traditional server infrastructure.
 
@@ -127,7 +127,7 @@ Example Firestore collections used in the system:
 
 ---
 
-## UI Screenshots
+# UI Screenshots
 
 Below are example interfaces from the platform showing different parts of the system.
 
@@ -149,7 +149,7 @@ Below are example interfaces from the platform showing different parts of the sy
 
 ---
 
-## Project Structure
+# Project Structure
 
 The application follows a modular Angular architecture that separates system responsibilities into different modules.
 
@@ -185,7 +185,7 @@ This modular structure allows each functional area of the system to be maintaine
 
 ---
 
-## Future Improvements
+# Future Improvements
 
 Future iterations of the platform could introduce additional features to enhance scalability and academic monitoring capabilities.
 
