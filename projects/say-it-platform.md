@@ -61,11 +61,16 @@ The application separates responsibilities across different modules such as admi
 
 # Core Modules
 
-## Admin Module
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚙️ Admin Module
 
 Provides administrative control over the academic system.
 
-Capabilities include:
+**Capabilities**
 
 • Student management  
 • Teacher management  
@@ -74,30 +79,59 @@ Capabilities include:
 • Employee administration  
 • Administrative dashboards  
 
----
+</td>
 
-## Teacher Module
+<td width="50%" valign="top">
+
+## 👨‍🏫 Teacher Module
 
 Allows teachers to interact with academic information related to their courses.
 
-Capabilities include:
+**Capabilities**
 
 • Teacher dashboard  
 • Student list visualization  
 • Course-related information access  
 • Academic monitoring  
 
----
+</td>
 
-## Student Module
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎓 Student Module
 
 Provides students access to their academic information.
 
-Capabilities include:
+**Capabilities**
 
 • Student dashboard  
 • Course information access  
 • Academic progress visualization  
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧩 Shared Components
+
+Reusable components used across the platform to maintain UI consistency.
+
+**Includes**
+
+• Navigation bar  
+• Sidebar navigation  
+• Topbar layout  
+• Shared UI elements  
+• Global services  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
