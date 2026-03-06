@@ -133,23 +133,23 @@ Data analytics project focused on inventory KPIs and operational insights.
 <h2>Languages</h2>
 
 <table>
-  <tr>
-    <td width="50%">
-      🇺🇸 <b>English</b> — C1 (Advanced)
-    </td>
-    <td width="50%" align="right">
-      <progress value="85" max="100"></progress> 85%
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+<img src="https://flagcdn.com/w40/us.png" width="20"/> <b>English</b> — C1 (Advanced)
+</td>
+<td width="50%" align="right">
+<progress value="90" max="100"></progress> 90%
+</td>
+</tr>
 
-  <tr>
-    <td width="50%">
-      🇩🇪 <b>German</b> — A1 (Basic)
-    </td>
-    <td width="50%" align="right">
-      <progress value="20" max="100"></progress> 20%
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+<img src="https://flagcdn.com/w40/de.png" width="20"/> <b>German</b> — A1 (Basic)
+</td>
+<td width="50%" align="right">
+<progress value="20" max="100"></progress> 20%
+</td>
+</tr>
 </table>
 
 ---
