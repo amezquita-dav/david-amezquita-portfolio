@@ -181,7 +181,7 @@ Visualization → Data Dashboards
 
 </td>
 
-<td width="20%" valign="top">
+<td width="25%" valign="top">
 
 ### Cloud
 - Firebase
