@@ -93,35 +93,64 @@ Data analytics project focused on inventory KPIs and operational insights.
 
 ## Technical Skills
 
-**Programming**
+<table>
+<tr>
+<td width="50%">
+
+### Programming
 - C#
 - Java
 - Python
 - JavaScript / TypeScript
 
-**Frontend**
+### Frontend
 - Angular
 - HTML
 - CSS
 
-**Databases**
+</td>
+
+<td width="50%">
+
+### Databases
 - SQL Server
 - MySQL
 - Hive
 
-**Tools & DevOps**
+### Tools & DevOps
 - Git
 - Docker
 - Kubernetes
 - Azure
 - Firebase
 
+</td>
+</tr>
+</table>
+
 ---
 
-## Languages
+<h2>Languages</h2>
 
-🇺🇸 **English:** C1 – Advanced  
-🇩🇪 **German:** A1 – Basic
+<table>
+  <tr>
+    <td width="50%">
+      🇺🇸 <b>English</b> — C1 (Advanced)
+    </td>
+    <td width="50%" align="right">
+      <progress value="85" max="100"></progress> 85%
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      🇩🇪 <b>German</b> — A1 (Basic)
+    </td>
+    <td width="50%" align="right">
+      <progress value="20" max="100"></progress> 20%
+    </td>
+  </tr>
+</table>
 
 ---
 
