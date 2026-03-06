@@ -13,15 +13,25 @@
 </td>
 <td width="35%" valign="top" align="right">
 
-**Languages**  
+**Languages**
 
-<img src="https://flagcdn.com/w40/us.png" width="20"/> **English** — C1   90%  
+<img src="https://flagcdn.com/w40/us.png" width="20"/> **English** — C1  90%  
 
-<img src="https://flagcdn.com/w40/de.png" width="20"/> **German** — A1   20%
+<img src="https://flagcdn.com/w40/de.png" width="20"/> **German** — A1  20%
 
 </td>
 </tr>
 </table>
+
+---
+
+## Engineering Focus
+
+• Industrial Systems Development  
+• Data Analytics & Operational Insights  
+• Dashboard & Data Visualization Platforms  
+• Scalable Web Applications  
+• Process Optimization Through Software  
 
 ---
 
@@ -33,31 +43,52 @@
 
 ---
 
+## System Impact
+
+• Developed dashboards for monitoring logistics operations and operational KPIs  
+• Built data-driven tools to improve operational visibility in industrial environments  
+• Designed scalable web interfaces for operational monitoring systems  
+• Implemented analytics workflows using SQL and Python for data insights  
+
+---
+
 ## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Industrial Logistics Dashboard
-
 
 Full-stack dashboard for monitoring logistics operations and operational KPIs.
 
 **Tech:** Angular • SQL • REST APIs • Data Visualization
 
+**Project Architecture**
+
+Frontend → Angular  
+Backend → REST APIs  
+Database → SQL Server  
+Analytics → Data Visualization
+
 [View Project](projects/logistics-dashboard.md)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Say It! – English Learning Platform
-
 
 Platform to manage English courses, students, and class scheduling.
 
 **Tech:** Web Application • User Management • Scheduling
+
+**Project Architecture**
+
+Frontend → Web Interface  
+Backend → Application Logic  
+Database → Student & Course Data  
+Core System → Scheduling Engine
 
 [View Project](projects/say-it-platform.md)
 
@@ -65,33 +96,47 @@ Platform to manage English courses, students, and class scheduling.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### AI Web Application
-
 
 Machine learning web application using a Kaggle dataset for predictions and insights.
 
 **Tech:** Python • Machine Learning • Data Processing
 
+**Project Architecture**
+
+Data Layer → Kaggle Dataset  
+Processing → Python Data Pipelines  
+Model → Machine Learning Model  
+Interface → Web Application
+
 [View Project](projects/ai-project.md)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Inventory Analytics
-
 
 Data analytics project focused on inventory KPIs and operational insights.
 
 **Tech:** SQL • Python • Pandas • Data Visualization
+
+**Project Architecture**
+
+Data Source → Inventory Database  
+Processing → Python & Pandas  
+Analytics → KPI Calculations  
+Visualization → Data Dashboards
 
 [View Project](projects/inventory-analytics.md)
 
 </td>
 </tr>
 </table>
+
+---
 
 ## Technical Skills
 
@@ -138,7 +183,7 @@ Data analytics project focused on inventory KPIs and operational insights.
 </tr>
 </table>
 
-
+---
 
 ## Professional Experience
 
