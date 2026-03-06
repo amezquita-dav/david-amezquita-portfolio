@@ -147,41 +147,6 @@ Below are example interfaces from the platform showing different parts of the sy
 
 ![Teacher Dashboard](../screenshots/sayit-teacher-dashboard.png)
 
----
-
-# Project Structure
-
-The application follows a modular Angular architecture that separates system responsibilities into different modules.
-
-src/
-├── access
-│ ├── admin-login
-│ └── login
-│
-├── admin
-│ ├── alumnos
-│ ├── empleados
-│ ├── maestros
-│ ├── niveles
-│ └── periodos
-│
-├── alumno
-│ └── dashboard-alumno
-│
-├── maestro
-│ └── dashboard-maestro
-│
-├── shared
-│ ├── navbar
-│ ├── sidebar
-│ └── topbar
-│
-├── services
-│
-└── core
-
-
-This modular structure allows each functional area of the system to be maintained independently while sharing reusable components and services across the application.
 
 ---
 
