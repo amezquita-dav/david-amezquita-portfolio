@@ -1,6 +1,6 @@
 # Industrial Logistics Monitoring Dashboard
 
-![Industrial Dashboard](../screenshots/dashboard.png)
+![Industrial Dashboard](../screenshots/d-dashboard.png)
 
 ## Overview
 
@@ -202,7 +202,7 @@ The following screenshots show different sections and analytical views of the in
 
 ### Main Dashboard
 
-![Main Dashboard](../screenshots/dashboard.png)
+![Main Dashboard](../screenshots/d-dashboard.png)
 
 General operational overview with KPIs, charts, and monitoring panels integrated into a single industrial dashboard.
 
