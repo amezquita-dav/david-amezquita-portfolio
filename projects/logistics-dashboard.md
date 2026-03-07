@@ -1,6 +1,6 @@
 # Industrial Logistics Monitoring Dashboard
 
-![Industrial Dashboard](../screenshots/d-dashboard.jpeg)
+![Industrial Dashboard](../screenshots/dashboard.jpeg)
 
 ## Overview
 
@@ -20,6 +20,8 @@ The application was developed as a modular web dashboard using **Angular**, **SQ
 - Carrier and provider performance tracking  
 - Dynamic chart-based operational summaries  
 - Modular dashboard sections for different logistics views  
+
+---
 
 <table width="100%">
 <tr>
@@ -73,10 +75,10 @@ The solution was designed with a **modular and scalable dashboard architecture**
 
 The dashboard follows a modular web architecture that connects frontend visualization components with backend services and relational data sources.
 
-**Frontend** → Angular  
-**Backend Services** → REST APIs  
-**Database Layer** → SQL  
-**Visualization Layer** → KPI Cards, Charts, Monitoring Widgets  
+**Frontend → Angular**  
+**Backend Services → REST APIs**  
+**Database Layer → SQL**  
+**Visualization Layer → KPI Cards, Charts, Monitoring Widgets**
 
 The system retrieves operational data from backend endpoints, processes KPI summaries, and renders them through reusable dashboard components focused on real-time visibility and analytics.
 
@@ -202,7 +204,7 @@ The following screenshots show different sections and analytical views of the in
 
 ### Main Dashboard
 
-![Main Dashboard](../screenshots/d-dashboard.jpeg)
+![Main Dashboard](../screenshots/dashboard.jpeg)
 
 General operational overview with KPIs, charts, and monitoring panels integrated into a single industrial dashboard.
 
@@ -308,7 +310,7 @@ Operational widget showing request movement performance and efficiency monitorin
 
 ### Dashboard Miniature Overview
 
-![Dashboard Overview](../screenshots/dashboard-industrial.jpeg)
+![Dashboard Overview](../screenshots/d-dashboard-industrial.jpeg)
 
 General portfolio preview of the dashboard layout and its main visual sections.
 
@@ -323,7 +325,7 @@ General portfolio preview of the dashboard layout and its main visual sections.
 
 The dashboard was developed using modular frontend components designed to display operational summaries, chart-based analytics, and reusable monitoring cards.
 
-### Example Dashboard Component Structure
+### Example Dashboard Component
 
 ```typescript
 import { Component, OnInit } from '@angular/core';
