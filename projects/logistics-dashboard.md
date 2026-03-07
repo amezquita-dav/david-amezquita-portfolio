@@ -1,6 +1,6 @@
 # Industrial Logistics Monitoring Dashboard
 
-![Industrial Dashboard](../screenshots/d-dashboard.jpg)
+![Industrial Dashboard](../screenshots/d-dashboard.jpeg)
 
 ## Overview
 
@@ -202,7 +202,7 @@ The following screenshots show different sections and analytical views of the in
 
 ### Main Dashboard
 
-![Main Dashboard](../screenshots/d-dashboard.png)
+![Main Dashboard](../screenshots/d-dashboard.jpeg)
 
 General operational overview with KPIs, charts, and monitoring panels integrated into a single industrial dashboard.
 
@@ -212,7 +212,7 @@ General operational overview with KPIs, charts, and monitoring panels integrated
 
 ### KPI Summary View
 
-![KPI Summary](../screenshots/d-kpis-principales.jpg)
+![KPI Summary](../screenshots/d-kpis-principales.jpeg)
 
 Compact KPI cards showing key operational metrics such as occupancy, damaged boxes, trailers in plant, and movement efficiency.
 
@@ -226,7 +226,7 @@ Compact KPI cards showing key operational metrics such as occupancy, damaged box
 
 ### Trailer & Yard Monitoring
 
-![Trailers in Plant](../screenshots/d-trailers-en-planta.jpg)
+![Trailers in Plant](../screenshots/d-trailers-en-planta.jpeg)
 
 Focused operational view for tracking trailer presence, daily comparisons, and changes across yard metrics.
 
@@ -236,7 +236,7 @@ Focused operational view for tracking trailer presence, daily comparisons, and c
 
 ### Cost by Detention Analysis
 
-![Cost by Detention](../screenshots/d-costo-por-detencion.jpg)
+![Cost by Detention](../screenshots/d-costo-por-detencion.jpeg)
 
 Breakdown of estimated detention cost exposure by carrier category and trailer count in plant.
 
@@ -250,7 +250,7 @@ Breakdown of estimated detention cost exposure by carrier category and trailer c
 
 ### Entries and Exits Analysis
 
-![Entries and Exits](../screenshots/d-entradas-salidas.jpg)
+![Entries and Exits](../screenshots/d-entradas-salidas.jpeg)
 
 Visual analysis of hourly entry and exit activity with donut charts and summarized provider/carrier breakdowns.
 
@@ -260,7 +260,7 @@ Visual analysis of hourly entry and exit activity with donut charts and summariz
 
 ### Detailed Entries and Exits
 
-![Detailed Entries and Exits](../screenshots/d-detalle.entradas-salidas.jpg)
+![Detailed Entries and Exits](../screenshots/d-detalle.entradas-salidas.jpeg)
 
 Tabular detail view showing operational records for entry and exit tracking.
 
@@ -274,7 +274,7 @@ Tabular detail view showing operational records for entry and exit tracking.
 
 ### Expandable Chart Views
 
-![Expandable Charts](../screenshots/d-Graficas-desplegables.jpg)
+![Expandable Charts](../screenshots/d-Graficas-desplegables.jpeg)
 
 Detailed drill-down visualization for chart sections and additional operational analysis panels.
 
@@ -284,7 +284,7 @@ Detailed drill-down visualization for chart sections and additional operational 
 
 ### Historical Box Visibility
 
-![Old Boxes Visualization](../screenshots/d-Visualizacion-cajas-antiguas.jpg)
+![Old Boxes Visualization](../screenshots/d-Visualizacion-cajas-antiguas.jpeg)
 
 Detailed view used to identify older box records and support aging analysis workflows.
 
@@ -298,7 +298,7 @@ Detailed view used to identify older box records and support aging analysis work
 
 ### Movement Efficiency
 
-![Movement Efficiency](../screenshots/d-eficiencia-solicitudes.jpg)
+![Movement Efficiency](../screenshots/d-eficiencia-solicitudes.jpeg)
 
 Operational widget showing request movement performance and efficiency monitoring.
 
