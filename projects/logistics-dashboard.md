@@ -238,7 +238,7 @@ Focused operational view for tracking trailer presence, daily comparisons, and c
 
 ### Cost by Detention Analysis
 
-![Cost by Detention](../screenshots/d-costo-por-detencion.jpeg)
+![Cost by Detention](../screenshots/d-costo-por-detention.jpeg)
 
 Breakdown of estimated detention cost exposure by carrier category and trailer count in plant.
 
